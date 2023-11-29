@@ -1,0 +1,97 @@
+/* padding clsees */
+@media screen and (max-width:991px){
+    .padddingTopMobile-ten{
+       padding-top: 10px !important;
+    }
+    .padddingTopMobile-twenty{
+       padding-top: 20px !important;
+    }
+    .padddingTopMobile-thirty{
+       padding-top: 30px !important;
+    }
+    .padddingTopMobile-fourty{
+       padding-top: 40px !important;
+    }
+    .padddingTopMobile-fifty{
+       padding-top: 50px !important;
+    }
+    .padddingBottomMobile-ten{
+       padding-bottom: 10px !important;
+    }
+    .padddingBottomMobile-twenty{
+       padding-bottom: 20px !important;
+    }
+    .padddingBottomMobile-thirty{
+       padding-bottom: 30px !important;
+    }
+    .padddingBottomMobile-fourty{
+       padding-bottom: 40px !important;
+    }
+    .padddingBottomMobile-fifty{
+       padding-bottom: 50px !important;
+    }
+   }
+   @media screen and (min-width:992px){
+       .padddingTopDesktop-ten{
+           padding-top: 10px !important;
+        }
+        .padddingTopDesktop-twenty{
+           padding-top: 20px !important;
+        }
+        .padddingTopDesktop-thirty{
+           padding-top: 30px !important;
+        }
+        .padddingTopDesktop-fourty{
+           padding-top: 40px !important;
+        }
+        .padddingTopDesktop-fifty{
+           padding-top: 50px !important;
+        }
+        .padddingTopDesktop-sixty{
+           padding-top: 60px !important;
+        }
+        .padddingTopDesktop-seventy{
+           padding-top: 70px !important;
+        }
+        .padddingTopDesktop-eighty{
+           padding-top: 80px !important;
+        } 
+        .padddingTopDesktop-ninety{
+           padding-top: 90px !important;
+        }
+        .padddingTopDesktop-hundred{
+           padding-top: 100px !important;
+        }
+        .padddingBottomDesktop-ten{
+           padding-bottom: 10px !important;
+        }
+        .padddingBottomDesktop-twenty{
+           padding-bottom: 20px !important;
+        }
+        .padddingBottomDesktop-thirty{
+           padding-bottom: 30px !important;
+        }
+        .padddingBottomDesktop-fourty{
+           padding-bottom: 40px !important;
+        }
+        .padddingBottomDesktop-fifty{
+           padding-bottom: 50px !important;
+        }
+        .padddingBottomDesktop-sixty{
+           padding-bottom: 60px !important;
+        }
+        .padddingBottomDesktop-seventy{
+           padding-bottom: 70px !important;
+        }
+        .padddingBottomDesktop-eighty{
+           padding-bottom: 80px !important;
+        } 
+        .padddingBottomDesktop-ninety{
+           padding-bottom: 90px !important;
+        }
+        .padddingBottomDesktop-hundred{
+           padding-top: 100px !important;
+        }
+   }
+   
+   
